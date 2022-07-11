@@ -6,4 +6,4 @@
   - **Discord  :** pancake#8188
   - **Telegram :** @pancakeTG
 
--😄 Pronouns: he/him
+- 😄 Pronouns: he/him
