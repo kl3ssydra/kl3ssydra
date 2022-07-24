@@ -1,11 +1,6 @@
-![Alt Text](https://i.pinimg.com/originals/8d/d1/76/8dd176c04a07c37b80a640dbc73382ff.gif)
-
-- 🍪 I’m currently learning C and TypeScript
-
-- 🍪 How to reach me: 
-  - **Discord  :** pancake#8188
-
-<br>
+<h1 align="center" style="padding-top:0px; margin-top: 0px; ">kl3ssydra Profile Page</h1>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kl3ssydra&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<p align="center">
 
 <a href="https://www.java.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
