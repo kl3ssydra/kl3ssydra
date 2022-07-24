@@ -1,5 +1,5 @@
 <p align="center">
-<img src="<img align="center" src="https://i.pinimg.com/originals/13/57/33/135733b07291badc8cb3c083d4fd90b0.gif">" style="border-radius: 16px; padding-bottom: 0px" width="100" height="100" >
+<img src="https://i.pinimg.com/originals/13/57/33/135733b07291badc8cb3c083d4fd90b0.gif" style="border-radius: 16px; padding-bottom: 0px" width="100" height="100" >
 </p>
 <h1 align="center" style="padding-top:0px; margin-top: 0px; ">kl3ssydra Profile Page</h1>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kl3ssydra&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
