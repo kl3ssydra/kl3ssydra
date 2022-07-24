@@ -32,10 +32,6 @@
 <a href="https://google.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
-   
-<a href="https://google.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</a>
 
 <a href="https://vuejs.org" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
