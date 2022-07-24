@@ -14,3 +14,7 @@
 <a href="https://www.php.net/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </a>
+
+<a href="https://www.javascript.com/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/javascript-b8920d?style=for-the-badge&logo=javascript&logoColor=white" />
+</a>
