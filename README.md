@@ -1,4 +1,4 @@
-![Alt Text](https://i.pinimg.com/originals/13/57/33/135733b07291badc8cb3c083d4fd90b0.gif)
+![Alt Text](https://i.pinimg.com/originals/8d/d1/76/8dd176c04a07c37b80a640dbc73382ff.gif)
 - 🌱 I’m currently learning C++ and Typescript 
 
 - 📫 How to reach me: 
