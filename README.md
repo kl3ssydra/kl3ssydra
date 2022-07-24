@@ -18,3 +18,7 @@
 <a href="https://www.javascript.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/javascript-b8920d?style=for-the-badge&logo=javascript&logoColor=white" />
 </a>
+
+<a href="https://www.python.org/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/python-#217cd1?style=for-the-badge&logo=python&logoColor=white" />
+</a>
