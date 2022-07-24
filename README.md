@@ -5,3 +5,5 @@
   - **Telegram :** @pancakeTG
 
 - 😄 Pronouns: he/him
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
