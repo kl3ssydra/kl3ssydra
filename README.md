@@ -61,6 +61,10 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </a>
     
+<br>
+<br>
+<br>
+    
 <p href="https://discord.gg/onlp" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/776077071515516928/>
 </p>
