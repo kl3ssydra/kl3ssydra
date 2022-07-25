@@ -1,3 +1,7 @@
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516/>
+</p>
+
 <p align="center">
 <img src="https://i.pinimg.com/originals/13/57/33/135733b07291badc8cb3c083d4fd90b0.gif" style="border-radius: 16px; padding-bottom: 0px" width="500" height="500" >
 </p>
