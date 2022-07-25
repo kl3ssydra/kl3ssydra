@@ -1,7 +1,3 @@
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/776077071515516928/>
-</p>
-
 <p align="center">
 <img src="https://i.pinimg.com/originals/13/57/33/135733b07291badc8cb3c083d4fd90b0.gif" style="border-radius: 16px; padding-bottom: 0px" width="500" height="500" >
 </p>
@@ -64,4 +60,9 @@
 <a href="https://www.html.it" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </a>
+    
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/776077071515516928/>
+</p>
+
      
