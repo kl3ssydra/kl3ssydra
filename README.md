@@ -68,9 +68,6 @@
 <br>    
 <br>
 <br>
-<br>    
-<br>
-<br>
 <br> 
     
 <p align="center" href="https://discord.gg/onlp" align="center">
