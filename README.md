@@ -5,6 +5,10 @@
 
 <br>
 
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/776077071515516928/>
+</p>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kl3ssydra&count_private=true&bg_color=30,6743e9,bd43e9&title_color=fff&text_color=fff">
 <p align="center">
     
