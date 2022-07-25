@@ -71,6 +71,8 @@
 <br>
 <br> 
 
+<h1 align="center" style="padding-top:0px; margin-top: 0px; ">Discord profile</h1>
+
 <p href="https://discord.gg/onlp" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/776077071515516928/>
 </p>
