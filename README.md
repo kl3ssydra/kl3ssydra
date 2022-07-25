@@ -5,6 +5,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kl3ssydra&count_private=true&bg_color=30,6743e9,bd43e9&title_color=fff&text_color=fff">
 <p align="center">
 
+<br>
+<br>
+    
 <a href="https://www.java.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </a>
@@ -71,6 +74,9 @@
 <br>
     
 <h1 align="center" style="padding-top:0px; margin-top: 0px; ">Discord profile</h1>
+
+<br>
+<br>
 
 <p href="https://discord.gg/onlp" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/776077071515516928/>
