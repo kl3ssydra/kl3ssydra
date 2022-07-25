@@ -7,8 +7,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kl3ssydra&count_private=true&bg_color=30,6743e9,bd43e9&title_color=fff&text_color=fff">
 <p align="center">
-
-<br>
     
 <a href="https://www.java.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
