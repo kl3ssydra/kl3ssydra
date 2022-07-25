@@ -72,10 +72,6 @@
 <br>
 <br>
 <br>
-    
-<h1 align="center" style="padding-top:0px; margin-top: 0px; ">Discord profile</h1>
-
-<br>
 <br>
 
 <p href="https://discord.gg/onlp" align="center">
