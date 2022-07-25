@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/13/57/33/135733b07291badc8cb3c083d4fd90b0.gif" style="border-radius: 16px; padding-bottom: 0px" width="500" height="500" >
 </p>
 <h1 align="center" style="padding-top:0px; margin-top: 0px; ">kl3ssydra Profile Page</h1>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kl3ssydra&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kl3ssydra&count_private=true&bg_color=30,6743e9,bd43e9&title_color=fff&text_color=fff">
 <p align="center">
 
 <a href="https://www.java.com/" style="text-decoration: none;">
