@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://24.media.tumblr.com/a75cd7561ad5a1bead5365a1412dc30a/tumblr_msktsqpTDV1rkoqaeo1_400.gif" style="border-radius: 16px; padding-bottom: 0px" width="500" height="500" >
+<img src="https://i.gifer.com/Va6t.gif" style="border-radius: 16px; padding-bottom: 0px" width="500" height="500" >
 </p>
 <h1 align="center" style="padding-top:0px; margin-top: 0px; ">kl3ssydra Profile Page</h1>
 
