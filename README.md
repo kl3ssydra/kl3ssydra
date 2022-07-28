@@ -78,4 +78,3 @@
 <br>
 <br> 
 
-<a href="https://Cheataway.com" target="_blank"><img src="https://github.com/kl3ssydra/kl3ssydra/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
