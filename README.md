@@ -68,12 +68,6 @@
 <br>    
 <br>
 <br>
-<br> 
-    
-<p align="center" href="https://discord.gg/edaSGsRSDJ" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/776077071515516928/>
-</p>
-
 <br>
 <br>
 <br> 
