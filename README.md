@@ -6,15 +6,15 @@
 <br>
 <p align="left">
 
-<code>       OS  :  nt10</code>
+<code>       OS              :  nt10</code>
 <br>
-<code>   Python  :  python 3.9.12</code>
+<code>   Python              :  python 3.9.12</code>
 <br>
-<code>Languages  :  python, java, js, batch, c</code>
+<code>Languages              :  python, java, js, batch, c</code>
 <br>
-<code>  Discord  :  776077071515516928</code>
+<code>  Discord                  :  776077071515516928</code>
 <br>
-<code>   Server  :  1000023123216830576</code>
+<code>   Server           :  1000023123216830576</code>
 
 </p>
 <p align="right">
