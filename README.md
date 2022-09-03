@@ -5,7 +5,8 @@
 <br>
 <br>
 <br>
-<p align="left">
+<p align="left"
+   width="400">
   <pre>
     <code style="margin-left:45;">
          OS :  nt10
