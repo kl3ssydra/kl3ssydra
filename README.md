@@ -7,7 +7,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kl3ssydra&count_private=true&bg_color=30,595959,2e2c2c&title_color=fff&text_color=fff">
 <p align="center">
-
+  
 ```python
        OS  :  nt10
    Python  :  python 3.9.12
@@ -16,11 +16,7 @@ Languages  :  python, java, js, batch, c/c++, c#, ts
    Server  :  1000023123216830576
 ```
 
-```json
-Knowledge is power.
-```
-
-<a href="https://discord.gg/S7sb24pCzn" target="_blank"><img src="https://github.com/kl3ssydra/kl3ssydra/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 </a>
     
