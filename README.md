@@ -6,9 +6,9 @@
 <br>
 <p align="left">
 <code>
-       OS  :  nt10
-   Python  :  python 3.9.12
-Languages  :  python, java, js, batch, c
+       OS  :  nt10\n
+   Python  :  python 3.9.12\n
+Languages  :  python, java, js, batch, c\n
   Discord  :  776077071515516928
    Server  :  1000023123216830576
 </code>
