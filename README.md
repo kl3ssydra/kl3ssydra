@@ -5,13 +5,13 @@
 <br>
 <br>
 <p align="left">
-<code>
-       OS  :  nt10\n
-   Python  :  python 3.9.12\n
-Languages  :  python, java, js, batch, c\n
-  Discord  :  776077071515516928
-   Server  :  1000023123216830576
-</code>
+
+<code>       OS  :  nt10</code>
+<code>   Python  :  python 3.9.12</code>
+<code>Languages  :  python, java, js, batch, c</code>
+<code>  Discord  :  776077071515516928</code>
+<code>   Server  :  1000023123216830576</code>
+
 </p>
 <p align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=kl3ssydra&count_private=true&bg_color=30,595959,2e2c2c&title_color=fff&text_color=fff">
