@@ -15,7 +15,7 @@ Languages  :  python, java, js, batch, c/c++, c#, ts
   Discord  :  776077071515516928
    Server  :  1000023123216830576
 ```
-![github-user-contribution](https://user-images.githubusercontent.com/59760485/188275385-2a7f1146-2cfb-4e95-bfb8-778d44288ab5.svg)
+![github-user-contribution](https://user-images.githubusercontent.com/59760485/188275385-2a7f1146-2cfb-4e95-bfb8-778d44288ab5.svg#gh-dark-mode-only)
 
 </a>
     
