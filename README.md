@@ -20,7 +20,7 @@
 
   <p align="left">
     <pre>
-      <code style="margin-left:45;">
+      <code>
          OS :  nt10
     Python  :  python 3.9.12
  Languages  :  python, java, js, batch, c
