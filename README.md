@@ -1,14 +1,4 @@
-<head>
-  <style>
-.background {
-  background-image: url("/image.jpg");
-  background-size: 150px;
-  width: 300px;
-  height: 300px;
-  border: solid 2px red;
-}
-  </style>
-</head>
+
 <body>
   <p align="center">
     <img src="https://i.pinimg.com/originals/6a/b9/89/6ab989220357141ba8d203e2ab664264.gif">
