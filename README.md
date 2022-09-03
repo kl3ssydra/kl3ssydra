@@ -6,7 +6,7 @@
 <br>
 <br>
 <p align="left"
-   width="40">
+   width="4"/>
   <pre>
     <code style="margin-left:45;">
          OS :  nt10
