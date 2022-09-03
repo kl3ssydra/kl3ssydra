@@ -17,7 +17,7 @@ Languages  :  python, java, js, batch, c/c++, c#, ts
 ```
 <p align="center">
   
-<img>![hi](https://user-images.githubusercontent.com/59760485/188275385-2a7f1146-2cfb-4e95-bfb8-778d44288ab5.svg)</img>
+<img align="center">![hi](https://user-images.githubusercontent.com/59760485/188275385-2a7f1146-2cfb-4e95-bfb8-778d44288ab5.svg)</img>
   
 </p>
 </a>
