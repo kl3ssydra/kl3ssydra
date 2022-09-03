@@ -7,19 +7,7 @@
 <br>
 <br>
 
-<p align="left">
-  <pre>
-    <code>
-         OS :  nt10
-     Python :  python 3.9.12
-  Languages :  python, java, js, batch, c
-    Discord :  776077071515516928
-     Server :  1000023123216830576
-    </code>
-  </pre>
-</p>
-
-<p align="right">
+<p align="central">
   <img src="https://github-readme-stats.vercel.app/api?username=kl3ssydra&count_private=true&bg_color=30,595959,2e2c2c&title_color=fff&text_color=fff">
 </p>
 
