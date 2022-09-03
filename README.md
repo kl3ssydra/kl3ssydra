@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.pinimg.com/originals/6a/b9/89/6ab989220357141ba8d203e2ab664264.gif" style="border-radius: 16px; padding-bottom: 0px" width="400" height="176" >
+<img src="https://i.pinimg.com/originals/6a/b9/89/6ab989220357141ba8d203e2ab664264.gif">
 
 <h1 align="center" style="padding-top:0px; margin-top: 0px; ">kl3ssydra Profile Page</h1>
   
