@@ -4,7 +4,6 @@
 <br>
 <br>
 <br>
-<p align="left">
 
 ```python
        OS  :  nt10
@@ -13,8 +12,7 @@ Languages  :  python, java, js, batch, c
   Discord  :  776077071515516928
    Server  :  1000023123216830576
 ```
-       
-</p>
+
 <p align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=kl3ssydra&count_private=true&bg_color=30,595959,2e2c2c&title_color=fff&text_color=fff">
 </p>
