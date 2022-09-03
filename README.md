@@ -6,7 +6,7 @@
 <br>
 <p align="left">
 <pre>
-  <code style="border-radius:50%">
+  <code style="margin-left:45;">
          OS :  nt10
     Python  :  python 3.9.12
  Languages  :  python, java, js, batch, c
