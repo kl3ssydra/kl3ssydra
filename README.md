@@ -5,7 +5,6 @@
   
 <br>
 
-<p align="center">
 ```python
        OS  :  nt10
    Python  :  python 3.9.12
@@ -13,7 +12,6 @@ Languages  :  python, java, js, batch, c, ts
   Discord  :  776077071515516928
    Server  :  1000023123216830576
 ```
-</p>
 
 <br>
 <br>
@@ -22,9 +20,7 @@ Languages  :  python, java, js, batch, c, ts
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kl3ssydra&count_private=true&bg_color=30,595959,2e2c2c&title_color=fff&text_color=fff">
 </p>
-  
 
-    
 <br>
 <br>    
 <br>
