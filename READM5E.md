@@ -12,7 +12,7 @@ I am currently in high school, but I have been passionate about computer science
 
 ---
 
-#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
+#### :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
 
