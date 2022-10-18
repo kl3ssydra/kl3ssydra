@@ -4,7 +4,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kl3ssydra&count_private=true&bg_color=30,595959,2e2c2c&title_color=fff&text_color=fff">
 </p>
 
-<p align="left" width="50%">
 I'm Clessidra.
 I am currently in high school, but I have been passionate about 
 computer science for 4 years now.
@@ -12,7 +11,6 @@ computer science for 4 years now.
 -   :hammer_and_pick: C++ / C# / TypeScript / Go / Rust / Python
 -   :man: Pronouns: he/him
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/kl3ssydra/kl3ssydra/discussions/new)!
-</p>
 
 ---
 
