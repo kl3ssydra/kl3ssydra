@@ -6,7 +6,7 @@
 I'm Clessidra.
 I am currently in high school, but I have been passionate about computer science for 4 years now.
 
--   :hammer_and_pick: C++ / Qt / TypeScript / Vue / Rust / Python
+-   :hammer_and_pick: C++ / C# / TypeScript / Go / Rust / Python
 -   :man: Pronouns: he/him
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/kl3ssydra/kl3ssydra/discussions/new)!
 
